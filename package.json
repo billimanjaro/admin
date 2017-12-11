@@ -1,0 +1,19 @@
+{
+  "name": "billimanjaro-admin",
+  "version": "0.0.1",
+  "description": "Billimanjaro admin server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/billimanjaro/admin.git"
+  },
+  "author": "Billimanjaro Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billimanjaro/admin/issues"
+  },
+  "homepage": "https://github.com/billimanjaro/admin#readme"
+}
